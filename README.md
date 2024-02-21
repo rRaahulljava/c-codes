@@ -1,2 +1,2 @@
 # c-codes
-All programs
+All programs.
